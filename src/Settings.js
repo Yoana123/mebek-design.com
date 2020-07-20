@@ -1,0 +1,6 @@
+export const BREAKPOINTS = {
+  XS: 575.98,
+  PHONE: 767.98,
+  TABLET: 991.98,
+  DESKTOP: 1199.98,
+}
